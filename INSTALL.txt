@@ -1,0 +1,37 @@
+[English]
+>>>> Photo Navigator <<<<
+
+Put the pictures inside of the same directory of index.php together with the images:
+seta_esquerda_bg_preto.gif e seta_esquerda_bg_preto.gif
+
+Have fun
+-Evandro
+
+
+[Portuguese]
+>>>> Foto Navegador <<<<
+
+
+	Coloque o arquivo index.php dentro do diretório que possua as fotos
+a serem vistas.
+
+	Coloque as imagens seta_esquerda_bg_preto.gif e seta_esquerda_bg_preto.gif
+no diretório de imagens do seu site.
+
+	Edite o arquivo index.php para que se adequem a sua necessidades modificando.
+as variáveis:
+
+//Variáveis configuráveis
+
+$img_setas_dir="";//diretório que contém as imagens com as
+	setas de navegação ex: $img_setas_dir="/img";
+ 	(onde estão seta_esquerda_bg_preto.gif e seta_esquerda_bg_preto.gif)
+
+$site_endereco="localhost";//Endereço que está hospedado o site
+			 ex: $site_endereco="www.evandro.org";
+
+
+
+
+Dúvidas mandem e-mail para: jr@evandro.org
+Façam bom proveito.
